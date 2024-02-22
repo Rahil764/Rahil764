@@ -1,4 +1,4 @@
-👋 Hi, I'm Mohd Affan Mujahid.
+👋 Hi, I'm Rahil Shaikh.
 🌐 I'm a student of Computer Science.
 💻 I'm an enthusiastic programmer and Web Developer
 🌐 I specialize in Web development.
